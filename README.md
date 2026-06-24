@@ -15,5 +15,9 @@ A beginner-friendly Python project that calculates monthly expenses, savings, an
 - Input/Output
 - Type Conversion
 - Arithmetic Operators
+  
+## 📸 Sample Output
+
+![Output Screenshot](screenshot.png)
 
 ## 🌱 Created as part of my Python Learning Journey.
